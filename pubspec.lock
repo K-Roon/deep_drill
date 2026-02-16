@@ -61,6 +61,7 @@ packages:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -97,6 +98,8 @@ packages:
 >>>>>>> parent of 142ec98 (Delete pubspec.lock)
 =======
 >>>>>>> parent of 579405f (뼈대 잡기)
+=======
+>>>>>>> parent of 579405f (뼈대 잡기)
   flutter:
     dependency: "direct main"
     description: flutter
@@ -110,6 +113,7 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "6.0.0"
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -155,11 +159,14 @@ packages:
 >>>>>>> parent of 142ec98 (Delete pubspec.lock)
 =======
 >>>>>>> parent of 579405f (뼈대 잡기)
+=======
+>>>>>>> parent of 579405f (뼈대 잡기)
   flutter_test:
     dependency: "direct dev"
     description: flutter
     source: sdk
     version: "0.0.0"
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -245,6 +252,8 @@ packages:
 >>>>>>> parent of 142ec98 (Delete pubspec.lock)
 =======
 >>>>>>> parent of 579405f (뼈대 잡기)
+=======
+>>>>>>> parent of 579405f (뼈대 잡기)
   leak_tracker:
     dependency: transitive
     description:
@@ -309,6 +318,7 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.9.1"
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -429,6 +439,8 @@ packages:
 >>>>>>> parent of 142ec98 (Delete pubspec.lock)
 =======
 >>>>>>> parent of 579405f (뼈대 잡기)
+=======
+>>>>>>> parent of 579405f (뼈대 잡기)
   sky_engine:
     dependency: transitive
     description: flutter
@@ -484,6 +496,7 @@ packages:
     version: "0.7.7"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -530,6 +543,8 @@ packages:
 >>>>>>> parent of 945cdba (LiquidGlass 를 내 손으로 만들어낼 수 있을까...?)
 =======
 >>>>>>> parent of 579405f (뼈대 잡기)
+=======
+>>>>>>> parent of 579405f (뼈대 잡기)
   vector_math:
     dependency: transitive
     description:
@@ -546,6 +561,7 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "15.0.2"
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -642,6 +658,8 @@ packages:
 =======
 >>>>>>> parent of 579405f (뼈대 잡기)
 >>>>>>> parent of 142ec98 (Delete pubspec.lock)
+=======
+>>>>>>> parent of 579405f (뼈대 잡기)
 =======
 >>>>>>> parent of 579405f (뼈대 잡기)
 sdks:
