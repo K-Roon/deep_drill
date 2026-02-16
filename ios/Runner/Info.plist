@@ -28,7 +28,11 @@
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>
 	<string>Main</string>
-	<key>UISupportedInterfaceOrientations</key>
+    <key>GADApplicationIdentifier</key>
+    <string>ca-app-pub-2748600890197597~5726135514</string>
+    <key>GADIsAdManagerApp</key>
+    <false/>
+    <key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
 		<string>UIInterfaceOrientationLandscapeLeft</string>
