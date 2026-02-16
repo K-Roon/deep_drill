@@ -34,12 +34,15 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.8
+<<<<<<< HEAD
   
   flutter_riverpod: ^3.2.1
   adaptive_platform_ui: ^0.1.101
   google_mobile_ads: ^7.0.0
   flutter_localization: ^0.3.3
   go_router: ^17.1.0
+=======
+>>>>>>> parent of 579405f (뼈대 잡기)
 
 dev_dependencies:
   flutter_test:
