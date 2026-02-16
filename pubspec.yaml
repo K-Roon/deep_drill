@@ -39,6 +39,9 @@ dependencies:
   flutter_riverpod: ^3.2.1
   adaptive_platform_ui: ^0.1.101
   google_mobile_ads: ^7.0.0
+<<<<<<< HEAD
+>>>>>>> parent of 945cdba (LiquidGlass 를 내 손으로 만들어낼 수 있을까...?)
+=======
 >>>>>>> parent of 945cdba (LiquidGlass 를 내 손으로 만들어낼 수 있을까...?)
 
 dev_dependencies:
